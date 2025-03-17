@@ -14,7 +14,7 @@ This analysis showcases SQL data manipulation and analysis techniques using MySQ
 
 The repository contains all SQL and Python scripts used for data preparation, exploratory analysis, statistical evaluation, and the Tableau dashboard. It also includes documentation of methodologies, findings, and project insights.
 
-# ________________________________________________________________
+# _________________________________________________________
 # Skills Demonstrated in this Project
 
 ## Technical Skills
