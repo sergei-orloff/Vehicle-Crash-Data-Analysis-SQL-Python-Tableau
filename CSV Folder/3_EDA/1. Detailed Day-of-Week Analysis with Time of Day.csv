@@ -1,0 +1,36 @@
+day_of_week,LIGHT_CONDITION_DESC,incident_count,day_percentage
+Monday,Daylight,97,64.24
+Monday,"Dark - Lighted",47,31.13
+Monday,Dawn,4,2.65
+Monday,"Dark - Not Lighted",2,1.32
+Monday,Dusk,1,0.66
+Tuesday,Daylight,119,65.03
+Tuesday,"Dark - Lighted",54,29.51
+Tuesday,Dusk,8,4.37
+Tuesday,Dawn,1,0.55
+Tuesday,"Dark - Not Lighted",1,0.55
+Wednesday,Daylight,118,58.13
+Wednesday,"Dark - Lighted",68,33.50
+Wednesday,Dusk,11,5.42
+Wednesday,Dawn,4,1.97
+Wednesday,Unknown,1,0.49
+Wednesday,"Dark - Not Lighted",1,0.49
+Thursday,Daylight,123,69.10
+Thursday,"Dark - Lighted",50,28.09
+Thursday,"Dark - Not Lighted",2,1.12
+Thursday,Dusk,2,1.12
+Thursday,Dawn,1,0.56
+Friday,Daylight,103,60.23
+Friday,"Dark - Lighted",56,32.75
+Friday,Dusk,5,2.92
+Friday,Dawn,5,2.92
+Friday,"Dark - Unknown Roadway Lighting",1,0.58
+Friday,"Dark - Not Lighted",1,0.58
+Saturday,Daylight,31,49.21
+Saturday,"Dark - Lighted",28,44.44
+Saturday,Dusk,3,4.76
+Saturday,Dawn,1,1.59
+Sunday,Daylight,25,49.02
+Sunday,"Dark - Lighted",23,45.10
+Sunday,Dawn,2,3.92
+Sunday,Dusk,1,1.96

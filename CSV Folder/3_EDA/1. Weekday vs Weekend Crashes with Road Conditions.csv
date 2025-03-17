@@ -1,0 +1,12 @@
+day_type,ROAD_SURFACE_CONDITION_DESC,crash_count,percentage
+Weekday,Dry,654,73.81
+Weekday,Wet,177,19.98
+Weekday,Ice,33,3.72
+Weekday,Snow,18,2.03
+Weekday,"SandMudDirtOil Or Gravel",2,0.23
+Weekday,"Water(Standing Moving)",1,0.11
+Weekday,Slush,1,0.11
+Weekend,Dry,73,64.04
+Weekend,Wet,31,27.19
+Weekend,Snow,6,5.26
+Weekend,Ice,4,3.51

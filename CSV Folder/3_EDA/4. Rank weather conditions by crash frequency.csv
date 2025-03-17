@@ -1,0 +1,17 @@
+Weather_Condition_Desc,Road_surface_Condition_Desc,total_crashes
+"No Adverse Conditions",Dry,714
+Rain,Wet,138
+"No Adverse Conditions",Wet,59
+"No Adverse Conditions",Ice,30
+Fog,Dry,13
+"No Adverse Conditions",Snow,12
+Fog,Wet,10
+Snow,Snow,9
+Snow,Ice,6
+"Blowing Sand Soil Dirt Or Snow",Snow,3
+"Blowing Sand Soil Dirt Or Snow",Ice,1
+Other,Wet,1
+Rain,"Water(Standing Moving)",1
+"No Adverse Conditions","SandMudDirtOil Or Gravel",1
+"No Adverse Conditions",Slush,1
+Rain,"SandMudDirtOil Or Gravel",1

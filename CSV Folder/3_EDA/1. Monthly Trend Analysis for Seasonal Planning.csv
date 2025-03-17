@@ -1,0 +1,135 @@
+month,day_type,crash_count,WEATHER_CONDITION_DESC,ROAD_SURFACE_CONDITION_DESC,LIGHT_CONDITION_DESC
+April,Weekday,2,Rain,Wet,Daylight
+April,Weekday,2,"No Adverse Conditions",Wet,Daylight
+April,Weekday,1,"No Adverse Conditions",Dry,"Dark - Lighted"
+April,Weekday,1,"No Adverse Conditions",Ice,"Dark - Lighted"
+April,Weekday,1,"No Adverse Conditions",Dry,Daylight
+April,Weekday,1,Snow,Snow,Daylight
+April,Weekend,1,"Blowing Sand Soil Dirt Or Snow",Snow,Daylight
+August,Weekday,1,"No Adverse Conditions",Dry,Daylight
+August,Weekday,1,"No Adverse Conditions",Wet,Daylight
+August,Weekday,1,Rain,"Water(Standing Moving)",Daylight
+December,Weekday,114,"No Adverse Conditions",Dry,Daylight
+December,Weekday,52,"No Adverse Conditions",Dry,"Dark - Lighted"
+December,Weekday,33,Rain,Wet,"Dark - Lighted"
+December,Weekday,24,Rain,Wet,Daylight
+December,Weekday,13,"No Adverse Conditions",Wet,"Dark - Lighted"
+December,Weekday,8,"No Adverse Conditions",Ice,"Dark - Lighted"
+December,Weekday,7,"No Adverse Conditions",Wet,Daylight
+December,Weekday,5,"No Adverse Conditions",Dry,Dusk
+December,Weekday,4,"No Adverse Conditions",Ice,Daylight
+December,Weekday,4,"No Adverse Conditions",Dry,Dawn
+December,Weekday,3,"No Adverse Conditions",Snow,"Dark - Lighted"
+December,Weekday,2,Snow,Snow,"Dark - Not Lighted"
+December,Weekday,2,"No Adverse Conditions",Snow,Daylight
+December,Weekday,2,Fog,Dry,"Dark - Lighted"
+December,Weekday,2,Rain,Wet,Dusk
+December,Weekday,2,Snow,Snow,"Dark - Lighted"
+December,Weekday,1,Fog,Wet,Dawn
+December,Weekday,1,Snow,Ice,"Dark - Lighted"
+December,Weekday,1,"No Adverse Conditions",Dry,Unknown
+December,Weekday,1,"No Adverse Conditions",Wet,Dawn
+December,Weekday,1,"No Adverse Conditions",Ice,"Dark - Not Lighted"
+December,Weekday,1,Fog,Dry,Daylight
+December,Weekday,1,"No Adverse Conditions",Slush,"Dark - Lighted"
+December,Weekday,1,Fog,Wet,"Dark - Lighted"
+December,Weekend,15,"No Adverse Conditions",Dry,Daylight
+December,Weekend,10,"No Adverse Conditions",Dry,"Dark - Lighted"
+December,Weekend,5,Rain,Wet,"Dark - Lighted"
+December,Weekend,3,Rain,Wet,Daylight
+December,Weekend,2,"No Adverse Conditions",Wet,Daylight
+December,Weekend,2,"No Adverse Conditions",Snow,"Dark - Lighted"
+December,Weekend,2,"No Adverse Conditions",Ice,"Dark - Lighted"
+December,Weekend,1,Fog,Dry,Daylight
+December,Weekend,1,Snow,Snow,"Dark - Lighted"
+December,Weekend,1,"No Adverse Conditions",Wet,"Dark - Lighted"
+December,Weekend,1,Fog,Wet,"Dark - Lighted"
+December,Weekend,1,Fog,Dry,"Dark - Lighted"
+December,Weekend,1,"No Adverse Conditions",Dry,Dusk
+December,Weekend,1,Rain,Wet,Dusk
+February,Weekday,3,"No Adverse Conditions",Ice,Daylight
+February,Weekday,2,"No Adverse Conditions",Snow,Daylight
+February,Weekday,1,"No Adverse Conditions",Ice,"Dark - Not Lighted"
+February,Weekday,1,"No Adverse Conditions",Ice,"Dark - Lighted"
+February,Weekday,1,Snow,Ice,Daylight
+February,Weekday,1,Snow,Snow,Daylight
+February,Weekend,1,Snow,Snow,Daylight
+January,Weekday,107,"No Adverse Conditions",Dry,Daylight
+January,Weekday,35,"No Adverse Conditions",Dry,"Dark - Lighted"
+January,Weekday,13,Rain,Wet,"Dark - Lighted"
+January,Weekday,12,Rain,Wet,Daylight
+January,Weekday,11,"No Adverse Conditions",Wet,Daylight
+January,Weekday,4,"No Adverse Conditions",Dry,Dusk
+January,Weekday,4,"No Adverse Conditions",Wet,"Dark - Lighted"
+January,Weekday,3,Fog,Wet,Daylight
+January,Weekday,3,"No Adverse Conditions",Dry,Dawn
+January,Weekday,3,Fog,Wet,"Dark - Lighted"
+January,Weekday,2,"Blowing Sand Soil Dirt Or Snow",Snow,"Dark - Not Lighted"
+January,Weekday,2,"No Adverse Conditions",Ice,"Dark - Lighted"
+January,Weekday,2,Fog,Dry,Daylight
+January,Weekday,1,Snow,Ice,Dusk
+January,Weekday,1,"No Adverse Conditions",Ice,Daylight
+January,Weekday,1,"No Adverse Conditions",Snow,Daylight
+January,Weekday,1,"No Adverse Conditions",Dry,"Dark - Not Lighted"
+January,Weekday,1,Snow,Ice,"Dark - Lighted"
+January,Weekday,1,Fog,Dry,"Dark - Lighted"
+January,Weekday,1,"No Adverse Conditions",Dry,"Dark - Unknown Roadway Lighting"
+January,Weekend,5,"No Adverse Conditions",Dry,"Dark - Lighted"
+January,Weekend,5,"No Adverse Conditions",Dry,Daylight
+January,Weekend,3,Rain,Wet,Daylight
+January,Weekend,1,Fog,Dry,Daylight
+January,Weekend,1,Fog,Wet,Dawn
+January,Weekend,1,"No Adverse Conditions",Snow,"Dark - Lighted"
+January,Weekend,1,Rain,Wet,Dawn
+January,Weekend,1,"No Adverse Conditions",Wet,Daylight
+January,Weekend,1,"No Adverse Conditions",Dry,Dusk
+January,Weekend,1,"No Adverse Conditions",Ice,Daylight
+January,Weekend,1,"No Adverse Conditions",Wet,"Dark - Lighted"
+July,Weekday,4,"No Adverse Conditions",Dry,Daylight
+July,Weekday,1,"No Adverse Conditions",Dry,"Dark - Lighted"
+July,Weekend,1,"No Adverse Conditions",Dry,Daylight
+June,Weekday,4,"No Adverse Conditions",Dry,Daylight
+June,Weekend,2,"No Adverse Conditions",Dry,Daylight
+June,Weekend,1,Other,Wet,Daylight
+March,Weekday,3,"No Adverse Conditions",Wet,Daylight
+March,Weekday,1,"No Adverse Conditions",Ice,Daylight
+May,Weekday,2,"No Adverse Conditions",Dry,Daylight
+May,Weekend,1,"No Adverse Conditions",Dry,Daylight
+November,Weekday,171,"No Adverse Conditions",Dry,Daylight
+November,Weekday,64,"No Adverse Conditions",Dry,"Dark - Lighted"
+November,Weekday,16,Rain,Wet,Daylight
+November,Weekday,11,"No Adverse Conditions",Dry,Dusk
+November,Weekday,10,Rain,Wet,"Dark - Lighted"
+November,Weekday,9,"No Adverse Conditions",Wet,Daylight
+November,Weekday,5,"No Adverse Conditions",Dry,Dawn
+November,Weekday,3,"No Adverse Conditions",Ice,"Dark - Lighted"
+November,Weekday,2,Rain,Wet,Dusk
+November,Weekday,2,Fog,Dry,Dusk
+November,Weekday,2,Fog,Dry,"Dark - Lighted"
+November,Weekday,1,"Blowing Sand Soil Dirt Or Snow",Ice,"Dark - Lighted"
+November,Weekday,1,Rain,"SandMudDirtOil Or Gravel",Daylight
+November,Weekday,1,Snow,Ice,"Dark - Lighted"
+November,Weekday,1,Snow,Snow,"Dark - Lighted"
+November,Weekday,1,Snow,Ice,Daylight
+November,Weekend,11,"No Adverse Conditions",Dry,"Dark - Lighted"
+November,Weekend,10,"No Adverse Conditions",Dry,Daylight
+November,Weekend,4,Rain,Wet,"Dark - Lighted"
+November,Weekend,2,Rain,Wet,Daylight
+November,Weekend,1,"No Adverse Conditions",Ice,"Dark - Lighted"
+November,Weekend,1,"No Adverse Conditions",Dry,Dawn
+October,Weekday,39,"No Adverse Conditions",Dry,Daylight
+October,Weekday,13,"No Adverse Conditions",Dry,"Dark - Lighted"
+October,Weekday,1,Rain,Wet,Daylight
+October,Weekday,1,"No Adverse Conditions",Wet,Dawn
+October,Weekday,1,"No Adverse Conditions",Wet,Daylight
+October,Weekday,1,"No Adverse Conditions",Snow,Daylight
+October,Weekend,2,"No Adverse Conditions",Dry,"Dark - Lighted"
+October,Weekend,2,"No Adverse Conditions",Dry,Daylight
+October,Weekend,2,Rain,Wet,"Dark - Lighted"
+October,Weekend,1,"No Adverse Conditions",Dry,Dusk
+October,Weekend,1,Rain,Wet,Daylight
+October,Weekend,1,"No Adverse Conditions",Wet,Daylight
+September,Weekday,1,"No Adverse Conditions","SandMudDirtOil Or Gravel","Dark - Lighted"
+September,Weekday,1,Rain,Wet,Daylight
+September,Weekend,1,"No Adverse Conditions",Dry,Daylight
+September,Weekend,1,"No Adverse Conditions",Dry,"Dark - Lighted"
